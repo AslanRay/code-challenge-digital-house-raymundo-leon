@@ -27,6 +27,12 @@
     "web": {
       "bundler": "metro",
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8d06fe5d-73b2-4b55-b7e4-7fdf59c43fce"
+      }
+    },
+    "owner": "aslanray"
   }
 }
