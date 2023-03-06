@@ -1,6 +1,8 @@
 # code-challenge-digital-house-raymundo-leon
 Code Challenge para Digital@Femsa
 
+App hecha con Expo como parte del reto técnico 
+
 Las siguientes imagenes ejemplifican la app creada para el reto técnico
 
 ![Screenshot 2023-03-06 at 3 17 10 AM](https://user-images.githubusercontent.com/38873968/223095929-848ed623-8a48-42a6-8552-89120a23c330.png)
